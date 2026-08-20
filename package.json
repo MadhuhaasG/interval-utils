@@ -1,0 +1,9 @@
+{
+  "name": "interval-utils",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Tiny interval-merging helpers.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
